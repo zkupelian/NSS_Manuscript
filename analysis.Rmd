@@ -1,0 +1,11 @@
+---
+title: "analysis"
+author: "Zo Kupelian"
+date: "2026-06-17"
+output: pdf_document
+---
+
+```{r}
+x <- 2
+```
+
